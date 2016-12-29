@@ -1,0 +1,2 @@
+# sormal-k
+nasıl yaparım
